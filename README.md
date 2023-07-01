@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Witnull
-- 👀 I’m interested in ... none
-- 🌱 I’m currently learning ... none
+- 👀 I’m interested in ... AI, ML and front-end
+- 🌱 I’m currently learning ... Information Security
 - 💞️ I’m looking to collaborate on ... none
-- 📫 How to reach me ... none
+- 📫 How to reach me ? Well, i do not know either
 
 <!---
 Witnull/Witnull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
